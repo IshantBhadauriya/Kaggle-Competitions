@@ -4,6 +4,6 @@ The Jupyter notebook goes through the Kaggle Titanic dataset via an exploratory 
 
 
 # Steps Taken
-Exploratory Data Analysis
-Data Cleansing
-Applying ML algorithms to data and checking accuracy
+Exploratory Data Analysis <br />
+Data Cleansing <br />
+Applying ML algorithms to data and checking accuracy <br />
